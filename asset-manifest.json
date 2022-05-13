@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/movie-hive/static/css/main.23d3964b.css",
-    "main.js": "/movie-hive/static/js/main.c1f5e68a.js",
+    "main.js": "/movie-hive/static/js/main.7366fc50.js",
     "static/media/topNavImg.svg": "/movie-hive/static/media/topNavImg.a8b11873357a8ae55a01512a87540849.svg",
     "static/media/Backdrop.jpg": "/movie-hive/static/media/Backdrop.d063680717c028a79037.jpg",
     "static/media/image.png": "/movie-hive/static/media/image.dd7e843858bfae10e732.png",
@@ -17,10 +17,10 @@
     "static/media/check.svg": "/movie-hive/static/media/check.d3758dd1a793f8207107794e16edb8bb.svg",
     "static/media/DropdownIcon.svg": "/movie-hive/static/media/DropdownIcon.7c07e46776da6de254c6da786b0d843c.svg",
     "main.23d3964b.css.map": "/movie-hive/static/css/main.23d3964b.css.map",
-    "main.c1f5e68a.js.map": "/movie-hive/static/js/main.c1f5e68a.js.map"
+    "main.7366fc50.js.map": "/movie-hive/static/js/main.7366fc50.js.map"
   },
   "entrypoints": [
     "static/css/main.23d3964b.css",
-    "static/js/main.c1f5e68a.js"
+    "static/js/main.7366fc50.js"
   ]
 }
