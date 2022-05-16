@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/movie-hive/static/css/main.23d3964b.css",
-    "main.js": "/movie-hive/static/js/main.f894b442.js",
+    "main.js": "/movie-hive/static/js/main.03267c1e.js",
     "static/media/topNavImg.svg": "/movie-hive/static/media/topNavImg.a8b11873357a8ae55a01512a87540849.svg",
     "static/media/Backdrop.jpg": "/movie-hive/static/media/Backdrop.d063680717c028a79037.jpg",
     "static/media/image.png": "/movie-hive/static/media/image.dd7e843858bfae10e732.png",
     "static/media/CancelButton.svg": "/movie-hive/static/media/CancelButton.e64eea81103dae8c27bda157696055d9.svg",
     "static/media/film.svg": "/movie-hive/static/media/film.4a40611fa65b7064ce9b6af4a6c4cf09.svg",
     "index.html": "/movie-hive/index.html",
+    "static/media/ThumbsDown.svg": "/movie-hive/static/media/ThumbsDown.d978bf402d0204c254cc777257ae9627.svg",
+    "static/media/ThumbsUp.svg": "/movie-hive/static/media/ThumbsUp.f1ec4088412bacef31f8aec4f82e46e7.svg",
     "static/media/download.svg": "/movie-hive/static/media/download.31536e705aa2c8973c0e609a61fc2b42.svg",
     "static/media/SearchIconSmall.svg": "/movie-hive/static/media/SearchIconSmall.7c5d10900e7e1f70209494ed154f322e.svg",
     "static/media/SearchIcon.svg": "/movie-hive/static/media/SearchIcon.d2b9f4e68d103a0db3504265884f3a37.svg",
@@ -16,11 +18,12 @@
     "static/media/Play.svg": "/movie-hive/static/media/Play.62977c24eb0f44d976c8dc1e883005c6.svg",
     "static/media/check.svg": "/movie-hive/static/media/check.d3758dd1a793f8207107794e16edb8bb.svg",
     "static/media/DropdownIcon.svg": "/movie-hive/static/media/DropdownIcon.7c07e46776da6de254c6da786b0d843c.svg",
+    "static/media/Uncheck.svg": "/movie-hive/static/media/Uncheck.b6c71bb2a710024b64f5493133955910.svg",
     "main.23d3964b.css.map": "/movie-hive/static/css/main.23d3964b.css.map",
-    "main.f894b442.js.map": "/movie-hive/static/js/main.f894b442.js.map"
+    "main.03267c1e.js.map": "/movie-hive/static/js/main.03267c1e.js.map"
   },
   "entrypoints": [
     "static/css/main.23d3964b.css",
-    "static/js/main.f894b442.js"
+    "static/js/main.03267c1e.js"
   ]
 }
