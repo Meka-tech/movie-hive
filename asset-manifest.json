@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/movie-hive/static/css/main.23d3964b.css",
-    "main.js": "/movie-hive/static/js/main.378769af.js",
+    "main.js": "/movie-hive/static/js/main.9f695506.js",
     "static/media/topNavImg.svg": "/movie-hive/static/media/topNavImg.a8b11873357a8ae55a01512a87540849.svg",
     "static/media/CancelButton.svg": "/movie-hive/static/media/CancelButton.e64eea81103dae8c27bda157696055d9.svg",
     "static/media/film.svg": "/movie-hive/static/media/film.4a40611fa65b7064ce9b6af4a6c4cf09.svg",
@@ -18,10 +18,10 @@
     "static/media/DropdownIcon.svg": "/movie-hive/static/media/DropdownIcon.7c07e46776da6de254c6da786b0d843c.svg",
     "static/media/Uncheck.svg": "/movie-hive/static/media/Uncheck.b6c71bb2a710024b64f5493133955910.svg",
     "main.23d3964b.css.map": "/movie-hive/static/css/main.23d3964b.css.map",
-    "main.378769af.js.map": "/movie-hive/static/js/main.378769af.js.map"
+    "main.9f695506.js.map": "/movie-hive/static/js/main.9f695506.js.map"
   },
   "entrypoints": [
     "static/css/main.23d3964b.css",
-    "static/js/main.378769af.js"
+    "static/js/main.9f695506.js"
   ]
 }
